@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "请列出一份详细的实施计划，实现安卓手机上的AI Agent的开发，使用纯文本模型.md",
+                "file": "steps/first step.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "请列出一份详细的实施计划，实现安卓手机上的AI Agent的开发，使用纯文本模型"
+              "title": "first step"
             }
           }
         ],
@@ -186,6 +186,16 @@
             "state": {
               "type": "agent-chat-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "agent-chat-view"
+            }
+          },
+          {
+            "id": "17b496984e1bf771",
+            "type": "leaf",
+            "state": {
+              "type": "agent-chat-view",
+              "state": {},
               "icon": "brain-cog",
               "title": "Chat with agent"
             }
@@ -211,10 +221,12 @@
   },
   "active": "167de137833ee918",
   "lastOpenFiles": [
+    "steps/请列出一份详细的实施计划，实现安卓手机上的AI Agent的开发，使用纯文本模型.md",
+    "steps/first step.md",
+    "steps",
+    "未命名.base",
     "未命名 2.base",
     "未命名 1.base",
-    "未命名.base",
-    "请列出一份详细的实施计划，实现安卓手机上的AI Agent的开发，使用纯文本模型.md",
     "欢迎.md",
     "2026-01-11.md",
     "Chats/chat-2026-01-11T14-50-17-353Z.md",
